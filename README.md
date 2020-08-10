@@ -10,7 +10,7 @@ Classifier uses a basic Text processing pipeline over just the `text` column to 
 3. Lemmatization/Stemming
 4. TFIDF vectorization
 5. Experiments with tree classifiers like Decision Trees and Gradient Boosted Trees
-6. Achieved F1 of 87-91.5% (best F1 with Gradient Boosted Trees) (NOTE: this is not k-cross validated)
+6. Achieved F1 of 87-91.5% on 20% validation set (best F1 with Gradient Boosted Trees) (NOTE: this is not k-cross validated)
 
 
 Next Steps:
